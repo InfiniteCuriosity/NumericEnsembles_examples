@@ -1,2 +1,2 @@
-# NumericEnsembles_examples
+# NumericEnsembles examples
 Fully worked out examples using the NumericEnsembles package
