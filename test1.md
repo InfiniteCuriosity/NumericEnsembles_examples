@@ -1,3 +1,0 @@
-#History
-
-## Part 1
